@@ -1,0 +1,71 @@
+{
+  "paragraphs": [
+    {
+      "text": "%angular\n\n\u003c!DOCTYPE html\u003e\n\u003chtml\u003e\n\u003chead\u003e\n\u003ctitle\u003eMathJax  Test Page\u003c/title\u003e\n\u003cscript type\u003d\"text/javascript\" async\n  src\u003d\"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config\u003dAM_CHTML\"\u003e\u003c/script\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\n\u003cp\u003eWhen `a !\u003d 0`, there are two solutions to `ax^2 + bx + c \u003d 0` and\nthey are\u003c/p\u003e\n\u003cp style\u003d\"text-align:center\"\u003e\n  `x \u003d (-b +- sqrt(b^2-4ac))/(2a) .`\n\u003c/p\u003e\n\n\u003c/body\u003e\n\u003c/html\u003e",
+      "dateUpdated": "Apr 3, 2016 3:23:22 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala",
+        "editorHide": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1459677168349_-2028588923",
+      "id": "20160403-152248_852158651",
+      "result": {
+        "code": "SUCCESS",
+        "type": "ANGULAR",
+        "msg": "\u003c!DOCTYPE html\u003e\n\u003chtml\u003e\n\u003chead\u003e\n\u003ctitle\u003eMathJax  Test Page\u003c/title\u003e\n\u003cscript type\u003d\"text/javascript\" async\n  src\u003d\"https://cdn.mathjax.org/mathjax/latest/MathJax.js?config\u003dAM_CHTML\"\u003e\u003c/script\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\n\u003cp\u003eWhen `a !\u003d 0`, there are two solutions to `ax^2 + bx + c \u003d 0` and\nthey are\u003c/p\u003e\n\u003cp style\u003d\"text-align:center\"\u003e\n  `x \u003d (-b +- sqrt(b^2-4ac))/(2a) .`\n\u003c/p\u003e\n\n\u003c/body\u003e\n\u003c/html\u003e"
+      },
+      "dateCreated": "Apr 3, 2016 3:22:48 PM",
+      "dateStarted": "Apr 3, 2016 3:22:58 PM",
+      "dateFinished": "Apr 3, 2016 3:22:58 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1459677178318_192966550",
+      "id": "20160403-152258_725857251",
+      "dateCreated": "Apr 3, 2016 3:22:58 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Equations In Zeppelin",
+  "id": "2BHVCG2AE",
+  "angularObjects": {
+    "2BECEUYS9": [],
+    "2BFS5YHZA": [],
+    "2BGPWTU48": [],
+    "2BG54H36C": [],
+    "2BJ6BCNCJ": [],
+    "2BGPU7R4N": [],
+    "2BH4FKE61": [],
+    "2BHQ47UAE": [],
+    "2BHANGX2M": [],
+    "2BG41NN1A": [],
+    "2BHCUSAFQ": [],
+    "2BESEZHUY": [],
+    "2BHAQE3G8": [],
+    "2BGN96FJE": []
+  },
+  "config": {},
+  "info": {}
+}
